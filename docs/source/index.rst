@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
-===================================
+Быстрый старт
+============ 
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Руководство по развертыванию системы FindFace Lite (FF.Lite)
+================================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+В данном руководстве вы узнаете как быстро приступить к работе с FindFace Lite.
 
-.. note::
 
-   This project is under active development.
+О системе
+---------------
 
-Contents
---------
+FindFace Lite – это облегченная версия основной многофункциональной системы видеоаналитики `Find Face Multi <https://docs.ntechlab.com/projects/ffmulti/>`_. Данная система распознает лица, детали предметов,силуэты, номера и прочие детали из видеопотока видеокамеры или видеозаписи.
 
-.. toctree::
 
-   usage
-   api
+
